@@ -1,6 +1,6 @@
 # Lyrics
 
-Here you can read and add song lyrics.
+Here you can read and add song lyrics
 
 
 ### What this project is contributing to the world
